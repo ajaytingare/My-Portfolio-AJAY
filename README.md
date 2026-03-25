@@ -38,8 +38,8 @@ Currently pursuing M.Sc. in Artificial Intelligence & Machine Learning with hand
 ### 👁️ Computer Vision
 <p>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/yolo-icon.png" width="40"/>
-<img src="https://raw.githubusercontent.com/facebookresearch/segment-anything/main/assets/logo.png" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="YOLO (via Python/OpenCV)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Meta SAM"/>
 </p>
 
 ### 📐 3D Vision & Geometry
@@ -57,7 +57,7 @@ Currently pursuing M.Sc. in Artificial Intelligence & Machine Learning with hand
 
 ### 🧠 NLP & Generative AI
 <p>
-<img src="https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/source/_static/img/logo.svg" width="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="40"/>
 </p>
 
