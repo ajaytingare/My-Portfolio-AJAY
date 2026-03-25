@@ -28,23 +28,44 @@ Currently pursuing M.Sc. in Artificial Intelligence & Machine Learning with hand
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Tools
-Python, C#, SQL, Git, REST APIs  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
 ### 👁️ Computer Vision
-OpenCV, YOLOv8, CoTracker, SAM, Object Detection, Multi-Object Tracking  
+<p>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/yolo-icon.png" width="40"/>
+<img src="https://raw.githubusercontent.com/facebookresearch/segment-anything/main/assets/logo.png" width="40"/>
+</p>
 
 ### 📐 3D Vision & Geometry
-PnP, Kabsch Algorithm, Rigid Transformations, 6DoF Estimation, Monocular Depth Estimation  
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721293.png" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png" width="40"/>
+</p>
 
 ### 🤖 AI / ML / Deep Learning
-PyTorch, TensorFlow, Feature Engineering, Model Optimization  
+<p>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="40"/>
+</p>
 
 ### 🧠 NLP & Generative AI
-RAG Pipelines, LLM Integration (Gemini API), Text Summarization, Context-Aware Systems  
+<p>
+<img src="https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/source/_static/img/logo.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="40"/>
+</p>
 
 ### ⚙️ Systems & Development
-C# WPF Applications, Browser Extensions, Real-time Systems, Performance Optimization  
-
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" width="40"/>
+</p>
 ---
 
 ## 🔗 Connect with me
